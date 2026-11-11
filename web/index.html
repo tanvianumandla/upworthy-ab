@@ -10,19 +10,30 @@
   <main>
     <h1>Headline Checker</h1>
     <p class="sub">
-      Type a headline to see which features it has, and how headlines with those
-      features did across <span id="n-comparisons">thousands of</span> real Upworthy headline A/B comparisons.
+      Write two versions of a headline and see which one fits the patterns from
+      <span id="n-comparisons">thousands of</span> groups of headlines Upworthy tested
+      against each other.
     </p>
 
-    <label for="headline">Headline</label>
-    <textarea id="headline" rows="2"
-      placeholder="This Teacher Did Something Nobody Expected. 3 Years Later, Her Students Remember."></textarea>
+    <div class="inputs">
+      <div>
+        <label for="headline-a">Headline A</label>
+        <textarea id="headline-a" rows="3"
+          placeholder="Why Did This Teacher Quit Her Job After 20 Years?"></textarea>
+      </div>
+      <div>
+        <label for="headline-b">Headline B</label>
+        <textarea id="headline-b" rows="3"
+          placeholder="This Teacher Quit After 20 Years. Her Reason Is Something Every Parent Should Hear."></textarea>
+      </div>
+    </div>
 
     <section id="results" aria-live="polite"></section>
 
     <p class="note">
       These are average patterns from Upworthy's 2013 to 2015 tests, comparing headlines
-      for the same story. They are not a prediction for your headline.
+      for the same story. They only cover the 7 features listed, so they are a rough guide,
+      not a prediction for your headline.
       <a href="https://github.com/tanvianumandla/upworthy-ab">How this was measured</a>
     </p>
   </main>

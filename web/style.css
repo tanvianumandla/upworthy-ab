@@ -17,12 +17,17 @@ body {
   font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 
-main { max-width: 680px; margin: 48px auto; padding: 0 20px; }
+main { max-width: 760px; margin: 48px auto; padding: 0 20px; }
 h1 { margin: 0 0 4px; font-size: 28px; }
-.sub, .note { color: var(--ink-2); }
+.sub, .note, .legend { color: var(--ink-2); }
 .note { font-size: 13px; margin-top: 32px; }
+.legend { font-size: 13px; margin-top: 10px; }
 
-label { display: block; font-weight: 600; margin: 24px 0 6px; }
+/* Two headline boxes side by side, stacked on small screens */
+.inputs { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 24px; }
+@media (max-width: 600px) { .inputs { grid-template-columns: 1fr; } }
+
+label { display: block; font-weight: 600; margin-bottom: 6px; }
 textarea {
   width: 100%;
   padding: 12px;
@@ -33,18 +38,31 @@ textarea {
 }
 textarea:focus { outline: 2px solid var(--up); border-color: transparent; }
 
-#results { margin-top: 20px; }
+#results { margin-top: 24px; }
 
+/* The verdict box at the top of the results */
+.verdict {
+  padding: 14px 16px;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  background: #f0efec;
+  border-left: 4px solid var(--neutral);
+}
+.verdict.win-a, .verdict.win-b { border-left-color: var(--up); background: #eaf2fc; }
+
+/* Feature table */
 .row {
   display: grid;
-  grid-template-columns: 1fr 150px 140px;
+  grid-template-columns: 1fr 44px 44px 130px 120px;
   align-items: center;
-  gap: 12px;
-  padding: 10px 0;
+  gap: 10px;
+  padding: 9px 0;
   border-bottom: 1px solid var(--line);
 }
-.row.off { opacity: 0.4; }               /* feature not in this headline */
-.label { font-weight: 500; }
+.row.header { font-size: 13px; font-weight: 600; color: var(--ink-2); padding-top: 0; }
+.row.same { color: var(--ink-2); }
+.row.differs .label { font-weight: 700; }
+.mark { text-align: center; font-variant-numeric: tabular-nums; }
 .value { text-align: right; font-variant-numeric: tabular-nums; }
 .value.up { color: var(--up); }
 .value.down { color: var(--down); }
@@ -54,4 +72,9 @@ textarea:focus { outline: 2px solid var(--up); border-color: transparent; }
 .range { position: relative; height: 8px; background: var(--line); border-radius: 4px; }
 .range .zero { position: absolute; left: 50%; top: -4px; bottom: -4px; width: 1px; background: var(--ink-2); }
 .range .ci { position: absolute; top: 0; bottom: 0; border-radius: 4px; }
-.summary { color: var(--ink-2); font-size: 14px; margin: 0 0 4px; }
+
+@media (max-width: 600px) {
+  .row { grid-template-columns: 1fr 32px 32px 100px; }
+  .range { display: none; }
+  .row.header span:last-child { display: none; }
+}
