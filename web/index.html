@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Headline Checker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <h1>Headline Checker</h1>
+    <p class="sub">
+      Type a headline to see which features it has, and how headlines with those
+      features did across <span id="n-comparisons">thousands of</span> real Upworthy headline A/B comparisons.
+    </p>
+
+    <label for="headline">Headline</label>
+    <textarea id="headline" rows="2"
+      placeholder="This Teacher Did Something Nobody Expected. 3 Years Later, Her Students Remember."></textarea>
+
+    <section id="results" aria-live="polite"></section>
+
+    <p class="note">
+      These are average patterns from Upworthy's 2013 to 2015 tests, comparing headlines
+      for the same story. They are not a prediction for your headline.
+      <a href="https://github.com/tanvianumandla/upworthy-ab">How this was measured</a>
+    </p>
+  </main>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

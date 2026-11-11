@@ -1,0 +1,13 @@
+{
+  "source": "Upworthy Research Archive, confirmatory set (2013-2015)",
+  "comparisons": 9917,
+  "features": [
+    { "id": "question", "label": "Asks a question (?)", "change": -0.088247, "low": -0.099626, "high": -0.076725, "significant": true },
+    { "id": "number", "label": "Contains a number", "change": 0.059446, "low": 0.04455, "high": 0.074555, "significant": true },
+    { "id": "you", "label": "Says 'you' / 'your'", "change": 0.004321, "low": -0.006953, "high": 0.015722, "significant": false },
+    { "id": "this_these", "label": "Says 'this' / 'these'", "change": 0.052452, "low": 0.040859, "high": 0.064174, "significant": true },
+    { "id": "exclamation", "label": "Has an exclamation mark", "change": -0.057089, "low": -0.085682, "high": -0.027603, "significant": true },
+    { "id": "quote", "label": "Has a direct quote", "change": -0.036662, "low": -0.080107, "high": 0.008836, "significant": false },
+    { "id": "words_per_5", "label": "+5 words longer", "change": 0.053432, "low": 0.04482, "high": 0.062114, "significant": true }
+  ]
+}

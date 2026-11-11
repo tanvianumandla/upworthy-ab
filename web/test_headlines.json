@@ -1,0 +1,2870 @@
+[
+ {
+  "headline": "Look At What Happens When Little Boys Believe That Anything Is Possible.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "He Puts Up 8 Pictures And Asks ‘Which Of These People Deserves To Die?’",
+  "expected": {
+   "question": true,
+   "number": true,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "Men And Women Disagree On Lots, But In This Case, The Woman Is Always Right",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "Some Take The News For Granted. Others Put Their Lives On The Line For It.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "The Instagram Account That Makes Me Sorta Embarrassed To Be A Man",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "See Putin's Homophobic Spokesman Gets Shamed On 'The Daily Show.' And That's The Least Awesome Part.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "The Moment This Comedian Stopped Getting Laughs, His Life Changed Forever",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 11
+  }
+ },
+ {
+  "headline": "Toddlers Operating Motorized Vehicles? Ummm ... Yes, Please.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 8
+  }
+ },
+ {
+  "headline": "Two-minute reality check: What exactly is your value?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 8
+  }
+ },
+ {
+  "headline": "He Talks About Death For 2 Minutes, And I Want To Hug Him So Hard",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "I Thought They Were Just Sharing Their Passion. Then My Stomach Dropped.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "Amy Poehler's Advice On Coping With Scary Images Is A Warm Hug At The End Of A Horrible Week",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "They Held In What They Wanted To Say For So Long. Glad They Finally Have A Chance To Say It.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 20
+  }
+ },
+ {
+  "headline": "8 Fun Things To Do During The Holiday Weekend That Have Nothing To Do With Shopping",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "An Urban Planner Has Found An Interesting Way To Log How Gross Men Can Be",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "The Secret The Twins Brought To The Kitchen Table Was Huge. What Happened Next Made Me Cry.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "It Got 1 Woman Through College And Let Another Sleep Till 2:00 PM, So How About We Show Some Love?",
+  "expected": {
+   "question": true,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 20
+  }
+ },
+ {
+  "headline": "The United States Senate Has Over 8 Million Reasons To Be Ashamed",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "Statistics I Did Not Just Make Up Myself Say We Should Take Friday Off From Work. Forever.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "Why Would Someone On Food Stamps Have An iPhone?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 9
+  }
+ },
+ {
+  "headline": "Have you ever seen something so wild and untouched? Better look now — soon it may be gone forever.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "Don't Be An Idiot. Learn How To Negotiate Like A Genius.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 11
+  }
+ },
+ {
+  "headline": "You Might Look At Your Soap With Bigger Eyes After You Hear What She Says About It",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "My Mom Forced Me To Study When I Was A Kid. These Parents Don't Want Kids To Take This Test At All.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 22
+  }
+ },
+ {
+  "headline": "If You've Ever Searched For The Meaning Of Life, Stop. The Answer Is Right Here.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "This Man Clearly Loves His Daughter. So Why Does He Have To Go To 'Dad School'?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "Rick Santorum Comes Out Of Retirement To Say The Craziest, Most Bigoted Thing I've Ever Heard",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "The Pain This Grandfather Felt About His Gay Grandson Is What You'd Call The 'Beautiful' Kind",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "How One Tiny Yellow Box Is Drastically Changing The Lives Of Syrian Refugees",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 13
+  }
+ },
+ {
+  "headline": "A Feminist Shares Actual Facts On Fox News And Confuses Conservative Pundits",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "Stupid Law Says No Gay Marriage? Google Says Challenge Accepted.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 10
+  }
+ },
+ {
+  "headline": "What Would You Do If You Were The Last Person Able To Speak Your Peoples' Language?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "California Allows These Awful Things To Be Built Next To Farms, Schools And Homes With No Notice?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "John Oliver Goes Off On The US Government For Betraying Some Heroes On The Front Line Of War",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "These Boys Give New Meaning To The Words, ‘Beach Body’",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 10
+  }
+ },
+ {
+  "headline": "How A Group Of High School Girls Got A Bigwig Leader To Listen To Them",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "It's Dirty, It's Rich, And You Can Totally Make It Yourself — Here's How",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "Why Summers Are Getting Hotter Than Ever Before",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 8
+  }
+ },
+ {
+  "headline": "After *That* Intro Demi Lovato Was Moved. Then 10 Minutes Of Her Raw, Real Truth Came Out.",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "A Reporter Accused Her Of Teaching Hate To Children. Her Reply Is Angry. And Haunting. And Perfect.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "At A Party He Was Unprepared For The Naysayers, But Now? He's Gonna Nail 'Em.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "They Walk Up To The Posters And Start Crying, Because That's What Dignity Will Do",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "Here’s A Quote From The Very First Republican President That Really Shocked Me",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 13
+  }
+ },
+ {
+  "headline": "See The President and 5 Girl Scouts bond at the White House Science Fair",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "You Really Need To Watch Maya Angelou Honor Nelson Mandela.  It's Worth Your Time.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "Meet The 17-Year-Old Whizz Who Thinks Failing Is Awesome. I'm Pretty Sure You'll Agree.",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "A Man Has Spent Several Decades Dressing Up Like A Homeless Person. The Reason Is Fantastic.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "Wouldn't It Be Cool If The Feds Could Legally Snoop On Everything You Put On The Internet? ",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "If You Want To Have An Adult Conversation About Gun Violence, Then You Have To Listen To This Mom",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "Everybody Talks About This And You Probably Tune It Out. This Video May Be Your Aha Moment.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "Look How Beautiful Families Can Be When We Let Everyone Who Wants Them Have Them",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "Honey on tap seemed like a good idea, but it could be flawed. Here's why.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "3 Guys Get A Bunch Of Celebs From Their Home Country To Appear In Their Video And Confusion Ensues",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "A Bunch Of Baby Sea Turtles Are About To Steal Your Heart. Guaranteed.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 13
+  }
+ },
+ {
+  "headline": "One Eye-Opening Graphic That Makes Birth Control An Issue For All Working Families",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 13
+  }
+ },
+ {
+  "headline": "A Guy Killed Some People Because He Couldn’t Get A Date, And Twitter Responded In A Massive Way.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "5 Things More Businesses Should Care About",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 7
+  }
+ },
+ {
+  "headline": "A Calvin Klein Model Sparked Some Controversy Because Of Her Size. She's Not Plus-Size. Or A Size 2.",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "I Wanted To Like This Woman, But The Selfies Were Too Much. Also, Everything Else About Her.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "Meet Some People Who Actually Want You To Go To Prison. You'll Be Shocked At Why. Or Not.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "If There Are 1000s Of Others Like You, Are You Really Alone? These Kids Are Shouting ‘No!’",
+  "expected": {
+   "question": true,
+   "number": true,
+   "you": true,
+   "this_these": true,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "Ever Wonder How Life Could Change For Kids If Gender Didn't Matter? Here's A Before And After.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "The Hard Truth About Being A Female Soldier In Our Military Is Not Pretty",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "She Dedicated Her Work To How Trees Talk. What She Found Is Like A Vast Underground Chatroom.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "How Many Trees Could You Save With All That Newspaper And Junk Mail?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 13
+  }
+ },
+ {
+  "headline": "Everything You Need To Know About Climate Change In 1 Shocking Photo",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "I Would Like To Thank God, My Mom, And A Lack Of Diversity In Movies For My Win",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "Have you seen former Disney Star Demi Lovato in the past few years? She's doing it right.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "What Neil deGrasse Tyson Thinks About Race Now That He's Made It",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "Awesome Chart, But Only If You’re Upside Down",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 8
+  }
+ },
+ {
+  "headline": "Female Stereotypes, Right After Your Commercial Break Full Of Female Stereotypes",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 11
+  }
+ },
+ {
+  "headline": "A Creative Way To Empower Kids That Involves Something I've Only Ever Done In Video Games",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "Can spa-like surroundings help reduce the stigma surrounding abortion?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 9
+  }
+ },
+ {
+  "headline": "A political party in the U.K. tried to appeal to women by driving a pink bus around. Whoops!",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "There Were A Whole Bunch Of People Who Thought She Shouldn't End Her Own Life. She Did It Anyway.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "Yes! A Ridiculously Adorable And Uplifting Video Of A Huge Company Actually Doing Good Stuff.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "Whether Or Not To Have Children Is 100% Your Business And Nobody Else's",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 13
+  }
+ },
+ {
+  "headline": "If You're Wondering How To Talk About Black People And White People, Here's 5 Things To Keep In Mind",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "Jason Alexander Was Confronted By A Pro-Gun Activist. His Response Was Like Nothing I've Ever Heard.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "The 5 best parts of the president's conversation with these Girl Scouts about their science project.",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "Girl Makes History. Man Asks Her Why She Doesn't Go Do Something More 'Female Friendly.'",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "When We Launched It Into Space, Twitter Didn't Exist. Now That Philae Made It, I'm So Glad It Does.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "This PSA About Bees Puts The Bzzz in Adorbz",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 9
+  }
+ },
+ {
+  "headline": "Racist Bullies Lose A Fight To An 11-Year-Old Kid With A Flawless Voice And Unabashed Patriotism",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "Eating Healthy Is Challenging As Is. Now Imagine You Only Had $4 To Do It.",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "Mental Illness, Substance Abuse, And Homelessness Are Such Hell Already. But Jail Time?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 13
+  }
+ },
+ {
+  "headline": "Seeing a Village Savings Loan Association shows how much progress Cambodia is making",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 13
+  }
+ },
+ {
+  "headline": "Can You Believe This Is *Actually* Happening In America?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 9
+  }
+ },
+ {
+  "headline": "It we're going to make superheroes out of kids, these are the best ones to do it with.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "Today Neil deGrasse Tyson Is A Household Name. Decades Ago He Was Told He Was Wasting His Genius.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "A Very Simple Question From A Girl With A Complicated Family",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 11
+  }
+ },
+ {
+  "headline": "Some Adorable Reasons Why Love Is Love, And Family Is Family",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 11
+  }
+ },
+ {
+  "headline": "Care To Guess Which Sacred Publications Have Less Than 25% Of Their Material Written By Women?",
+  "expected": {
+   "question": true,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "Check Out These New Lyrics To A Song You're Most Likely To Sing Along To At The Bar",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "You Won't Hear It On The News, So Get It Here: The Top 10 Economic Charts Of 2014",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "6 minutes to help prevent rape and sexual assault",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 9
+  }
+ },
+ {
+  "headline": "Cute couple + even cuter song for their future child = 3 minutes of pure delight.",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "A Football Team Is Taking Their Towels Off To Show Men How To Check For Cancer",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "Rafael knows he cannot fix 70,000 broken wells. But he can start with the wells back home.",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "That One Time A Cartoon Punched Fake Science In The Face With ACTUAL FACTS",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "REAL TALK:  These Kids Want To Change The World But They Need Us To Not Mess It Up",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "Batman Might Be The Greatest Detective, But He's Certainly Not The Greatest Employer",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 13
+  }
+ },
+ {
+  "headline": "The bully punches him in the face. Later, he follows the bully home, and that's where he sees it.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "A Jeweler As Unique As The Rare Gemstones She Sets In Gold",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "Not A Dog Person? You Will Be After This Ad Goes From Horrible To Heartwarming.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "Professor Mom Builds Time Machine To Help Autistic Son",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 9
+  }
+ },
+ {
+  "headline": "Jon Stewart Reflects On The Terror Attack Against Charlie Hedbo",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 10
+  }
+ },
+ {
+  "headline": "People Think She's Drunk All The Time. But This Famous Musician's Got A Much More Interesting Story.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "The All Too Common Secret That The Cops Don't Want You To Know About Towns Like Ferguson, Missouri",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "BOOM: Olivia Wilde's Tush Comeback To A Critic Who Says Ridiculous Things About It",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "These People Aren't Straight But They Got What They Deserved At Church",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "There's a man in a  bear suit and a rap about the Earth. It's weird, but it also makes sense.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 20
+  }
+ },
+ {
+  "headline": "He Falls Down And Cries For Help, Twice. The Second Time Will Make You Question Humanity.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "If You Thought We Solved Slavery Back In 1865, Here Are 27 Million Reasons You Are Wrong",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "Unsettling Sex-On-The-Internet Facts. Don't Say I Didn't Warn You.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 9
+  }
+ },
+ {
+  "headline": "The Cable Package You Chose To Use Might All Be An Elaborate Illusion",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 13
+  }
+ },
+ {
+  "headline": "Hey Divided America, I Found 1 Thing We Can All Agree On: Our Hatred For These Bloodsuckers",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "When A Video Begins With 'Children Are Born Homophobic' It Get's My Attention. I'm Glad It Did.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "'This Is Actually Easier Than It Sounds' = Most Shocking Statement I've Ever Heard On Climate Change",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "Hey, Joan Rivers, We’ve All Got Insecurities. But That’s No Excuse For Being A Dick.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "The Most Financially Successful Sports League In The World Pays No Taxes. None.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 13
+  }
+ },
+ {
+  "headline": "Here’s How A Judge Can Misuse A Protection Order. Hint: It’s About Drones.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 13
+  }
+ },
+ {
+  "headline": "This Guy Is Going To Make A Point About The London Subway System That Will Feel Exhausted For Him",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "Women Weren't Invited To Join The Syrian Peace Talks, But They're Still Speaking Out",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "Can You Hurt Someone With A Compliment? Just Ask These Teens.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 11
+  }
+ },
+ {
+  "headline": "Listen With Your Eyes Closed. Do You Still Like It With Your Eyes Open? Say Yes.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "You Have To Be Good At Math To Do What She Does Every Day. Oh, And Walking On Metal.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "She Invented A Whole New Kind Of Jeans. I'm Down With That.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "Possibly The Cutest Dog Video On The Internet. Probably The Most Interesting.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "Video Games Are A Lot Easier To Play If You Are A Dude. But Not Because You Are Better At Them.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 21
+  }
+ },
+ {
+  "headline": "An Actor On The Way To A Funeral Had 2 Toddlers In His Car When The Very Real Cop Pulled Him Over",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 22
+  }
+ },
+ {
+  "headline": "Why Do Some Children Hear More Words Than Others? And Why Does It Matter?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "Disney Slimmed Down An Iconic Figure, And Here’s Why That Was A Really Awful Thing To Do",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "Here's One Society With Zero Tolerance For The C-Word. Hopefully Ours Will Be Next.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "You May Change Your Career After Watching This",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 8
+  }
+ },
+ {
+  "headline": "He Uncovers Some Dirty Secrets About Tourism And Surf Spots",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 10
+  }
+ },
+ {
+  "headline": "A Detailed Description Of What It's Like To Compulsively Pull Out Your Own Hair",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "If You Think Public Speaking Is Hard, See What People With Social Anxiety Deal With Every Day",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "A Funny Video Explaining A New Arizona Law That Allows Women To Be Fired For Using Birth Control",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "It Was 45 Years Of True Love, But When 1 Died, The Other Was Told The Marriage Wasn't Real",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "11 Really Cool Science Things I Didn't Know About My Gay Friends' Genetic Code",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "She Wants A Safe Place For Her Daughter To Be After School, And A Safe Way To Get There",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "The Nun From 'Sister Act' Is The Most Financially Successful Character A Black Woman Has Ever Played",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "Did You Know A Brain 'On Love' Looks A Lot Like A Brain On Cocaine?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "His Spouse Died, But He's Still Fighting For Their Marriage",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 10
+  }
+ },
+ {
+  "headline": "Show This 2 Minute Video To Anyone Who Doesn't Understand What's Happening In Ferguson",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "Married Businessman Tries To Hit On Colleague. That's When She Humiliates Him.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "MUST WATCH: The 0-Emission, Air-Powered Car Big Oil Doesn’t Want You To Know About",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "The Most Simple Argument Against Raising The Minimum Wage Might Not Be As Simple As You Think",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "What Would The Minimum Wage Be If It Kept Up All These Years? I Wish The Answer Were Less Shocking.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 20
+  }
+ },
+ {
+  "headline": "The Law Has Already Helped 27 Million Women, So Why Are Some Companies Trying To Fight It?",
+  "expected": {
+   "question": true,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "Tell A Girl She Can't? Discover A Girl Who Will.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 10
+  }
+ },
+ {
+  "headline": "What Happens In A Ghost Town of 28,000 Acres And 5,700 Buildings?",
+  "expected": {
+   "question": true,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "'Can I See Some ID?' Is A Fine Question To Ask At A Bar, But Never Where They're Asking It.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 20
+  }
+ },
+ {
+  "headline": "A Model Who Thinks She’s Not Portrayed In The Media?  I’ve Got To Hear This One.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "Sean Hannity Thinks Telling Men Not To Attack Women Is Dumb?!?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 11
+  }
+ },
+ {
+  "headline": "Are You A Dog Person? You Will Be After This Ad Goes From Horrible To Heartwarming.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "Why Does Such A Normal Part Of Life Get Portrayed In Such A Negative And Humiliating Way?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "The Scientist Said He Had A Genetic Curse For A Thousand Years. So What Happened When He Had Kids?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "If I Have To Hear One More Person Whine About 'Privilege'... Wait, What's That You Say?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "She Wasn't 'Cute.' Even Men Asked, 'Why Am I Attracted To You?' Her Answer Nails It.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "What's in a name? According to the food industry, not that much.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "Think Your Baby's The Coolest Because They Can Work A Tablet? He Might Make You Rethink That.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "What's The Most Important Question You Can Ever Ask A Straight Person?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "He Thinks The World Should End, Yet I Think I Want To Hug Him?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "The 12 Things You Should Never, Ever Say To Teachers",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 10
+  }
+ },
+ {
+  "headline": "3 Inspiring Quotes From Nobel Prize Winner Malala Yousafzai Confirm She Deserves All The Awards",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "Cute And Weird: It Got 1 Woman Thru College And Let Another Sleep Till 2:00 PM",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "A Video I Loved Within The First 10 Seconds From A Dude In An Apron Explaining Birth Control *Magic*",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "Ever Heard Of 'Castle Bravo'? It’s A Bomb With 1000X The Power Of Those Which We Dropped On Japan.",
+  "expected": {
+   "question": true,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "8 Moments From Our First 70 Minutes In The World",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 10
+  }
+ },
+ {
+  "headline": "A *Wildly* Different Perspective On Domestic Violence In Just 2 Images",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 11
+  }
+ },
+ {
+  "headline": "What’s The Difference Between 2 Cats And Too Many Cats?",
+  "expected": {
+   "question": true,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 10
+  }
+ },
+ {
+  "headline": "Want An Easy Way To Make $4K Ladies? Just Change Your Name To 'John'.",
+  "expected": {
+   "question": true,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "How It Took About 30 People For 1 Swimmer To Make History",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "​16-Year-Old Radio Reporter Investigates The Sickening World Of Slut-Shaming",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 9
+  }
+ },
+ {
+  "headline": "It's 1 Of The 1st Things People Judge You On. Here's Why You Should Ignore The Crap Out Of Them.",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 20
+  }
+ },
+ {
+  "headline": "Take 3 Minutes Out Of Your Day To Let A Famous Singer Give You Something To Look Forward To",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "He Puts 11 Pictures On The Screen. The First 10 Are Funny. The Last 1 Gave Me Chills.",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "Armed with a marker and whiteboard, 10 protesters speak out on the fight for 15.",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "When His Treatments Stopped Working One Doctor Prescribed Something You Wouldn’t Call Medicine",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 13
+  }
+ },
+ {
+  "headline": "Why This Sort Of Street Harassment Is Especially Terrible, No Matter Which Way You Look At It",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "This Is What Happens When Students Have The Support They Need. This Joyful Video Will Make You Smile.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "When Did Bra Straps Become A Threat To Your Child's Education?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 11
+  }
+ },
+ {
+  "headline": "There's 1 Crucial Thing You Need To Know To Be A *True* Cat Or Dog Person",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "What That Dude You See On The $5 Bill Thought Of Work & Working People Is Not Surprising",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "In 2:19, 6 Of The Most Amazing Women From History You’ve Never Heard Of",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "If You Were Born After 1982 Then I Have Some Kick Ass News About A Super Power You Now Have. Ready?",
+  "expected": {
+   "question": true,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 21
+  }
+ },
+ {
+  "headline": "Want to speak up about climate change, but your options just aren't weird enough? Here.",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "His Reaction To What The Doctors Tell Him Proves That Life Is All About How You Look At It",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "Here’s A Map. If Your State Is Shaded Green, Some Folks Are Doing Better Than If It's Pink.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "What Do You Think Would Happen If You Hung A Sign Around Your Neck That Said, ‘F__k The Poor’?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "If You Think Poor People Use Welfare, Wait Till You See What These Guys Do With It",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "Playing Softball Won't Make Your Daughter A Lesbian —And 6 Other Things That Won't Turn Kids Gay",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "CNN, Just Go Home. These Comedians Just Won The News.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 10
+  }
+ },
+ {
+  "headline": "Add These Amazing Women From History To The I-Could-Care-Less-What-People-Think List",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 10
+  }
+ },
+ {
+  "headline": "These Graphs Showing Sexism Didn't Surprise Me, But Oh How I Wish They Were Wrong",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "I Might Be Able To Laugh At The Ridiculous Messages These Women Received If They Were From A Movie",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "Hollywood Seems To Think Gay People Go Extinct In An Apocalypse. This Movie Will Destroy That Idea.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "That Squeal Of Joy At The End Of This Clip Is Silenced In Some States",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "These five steps can help you through tough discussions. Let's use climate change as an example.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "Dear Dudes Who Think They Know More About What's Best For This Woman Than This Woman...",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "What's A Man Like This Say In The Face Of All Of The Adversity He's Experienced In His Life?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "How Many Men Would Still Be Alive If Every Guy Could Speak This Openly About Hitting Rock Bottom?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "What The Hell, Nine West? What Were You Thinking With This Totally Insulting Shoe Campaign?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "Before we can all live on Mars, we need this guy to live in space for 1 year",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "Say what you will about Sean Penn. OK, now listen to this guy talk about race.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "I'd Rather Watch This Spoof Of True Detective With Leading Ladies Than The Actual New Season",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "These Little Girls Dropping The F-Bomb Might Scandalize You At First. But Then, Aha!",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "Good Thing This Graph Showing Sexism In 2008 Isn't The Same As In 2013. Oh, WHAT!? It Is!?",
+  "expected": {
+   "question": true,
+   "number": true,
+   "you": false,
+   "this_these": true,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "Want To Work Hard In Very Little Clothing For Large Crowds And Low Pay? The NFL Has A Job For You!",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 21
+  }
+ },
+ {
+  "headline": "No Sexual Desire? No Problem! Xoxo, The Asexual Movement",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 9
+  }
+ },
+ {
+  "headline": "After This You'll Be Shouting 'Caboose? More Like KABOOM!'",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": true,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 9
+  }
+ },
+ {
+  "headline": "I Didn't Realize That Only White Farmers In America Drove Dodge Rams!",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "Wow! Check Out One Of Afghanistan’s Best Kept Secrets. ",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 9
+  }
+ },
+ {
+  "headline": "Hey, Web! You turned 25 years old … congratulations! But we have to talk.",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": true,
+   "this_these": false,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "OMG! Its A Bird! Its A Plane! Its A Super Kid Who Adorably Challenges Us All To Do Way Better! ",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 20
+  }
+ },
+ {
+  "headline": "Workers At McDonalds Decided To Take Their Case To Shareholders. This Is What Democracy Looks Like!",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "Two Senators Support A Questionable Project. An Expert Goes 'Wha-Bam! Facts!'",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 11
+  }
+ },
+ {
+  "headline": "Who Would Bully A Firefighter?! The Answer Is Crazy. ",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 9
+  }
+ },
+ {
+  "headline": "Infographic about how the Oscars handle race and how they can do better. With facts and solutions!",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 17
+  }
+ },
+ {
+  "headline": "They Supported Our Military Behind Closed Doors Under \"Don't Ask, Don't Tell.\" Not. Any. More!",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": true,
+   "quote": true,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "\"Mom, Dad, I don't know how to say it, so I'm just going to say it. I'm straight.\" \"NOOOOO!\"",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": true,
+   "quote": true,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "Another City Is Headed For $15/Hr. Minimum Wage!",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": true,
+   "quote": false,
+   "word_count": 8
+  }
+ },
+ {
+  "headline": "I Bet You Never Thought You'd Read \"Blood Can Bring Peace To The Middle East.\" But It Can.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": true,
+   "word_count": 18
+  }
+ },
+ {
+  "headline": "I Know *Way* Too Many People Who Can Watch This And Say, \"I Get That\"",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": true,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "Under \"Don't Ask, Don't Tell,\" They Supported In Secret. Now They Are Finally Being Recognized.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": true,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "If You Were Giving A Commencement Address Would It Include \"Wear Sunscreen\"?",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": true,
+   "word_count": 12
+  }
+ },
+ {
+  "headline": "Interesting Facts To Know On This Whole \"Living Wage\" Debate-Thing",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": true,
+   "word_count": 10
+  }
+ },
+ {
+  "headline": "4 Ladies Get The \"Cover Model\" Makeover Of Their Dreams… And Then Hate The Results",
+  "expected": {
+   "question": false,
+   "number": true,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": true,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "A Black CNN Lawyer Speaks Out On The \"Inherent Racism\" Of Police Brutality. She Calls It Like It Is.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": true,
+   "word_count": 19
+  }
+ },
+ {
+  "headline": "The Best Argument For Immigration Reform I\"ve Seen In A While",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": true,
+   "word_count": 11
+  }
+ },
+ {
+  "headline": "We Googled \"Tucker Carlson\" And \"Gay Marriage\". Mayhem Ensued.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": true,
+   "word_count": 9
+  }
+ },
+ {
+  "headline": "Nailed it: \"If we don't educate a girl, we don't make our society worthy and free.\"",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": true,
+   "word_count": 16
+  }
+ },
+ {
+  "headline": "A Device That Helps Blind People \"See\" With Their... Tongues?!",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": true,
+   "quote": true,
+   "word_count": 10
+  }
+ },
+ {
+  "headline": "OMG. Google \"Tucker Carlson\" And \"Gay Marriage\"",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": true,
+   "word_count": 7
+  }
+ },
+ {
+  "headline": "Watching These Seniors Try “The Facebook Something” For The First Time ... The Best Ever.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": false,
+   "this_these": true,
+   "exclamation": false,
+   "quote": true,
+   "word_count": 15
+  }
+ },
+ {
+  "headline": "Advertisers Are Lying To You When They Say Food Is \"Natural\" - It's Not.",
+  "expected": {
+   "question": false,
+   "number": false,
+   "you": true,
+   "this_these": false,
+   "exclamation": false,
+   "quote": true,
+   "word_count": 14
+  }
+ },
+ {
+  "headline": "Neil deGrasse Tyson: \"The Guy Didn't Ask Me 'How Do BLACK People Feel About Plasma From The Sun?'\"",
+  "expected": {
+   "question": true,
+   "number": false,
+   "you": false,
+   "this_these": false,
+   "exclamation": false,
+   "quote": true,
+   "word_count": 18
+  }
+ }
+]

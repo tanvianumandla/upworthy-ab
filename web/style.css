@@ -1,0 +1,57 @@
+:root {
+  --bg: #fcfcfb;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --line: #e4e3df;
+  --up: #2a78d6;      /* features linked to more clicks */
+  --down: #eb6834;    /* features linked to fewer clicks */
+  --neutral: #a3a29c; /* no clear effect */
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+main { max-width: 680px; margin: 48px auto; padding: 0 20px; }
+h1 { margin: 0 0 4px; font-size: 28px; }
+.sub, .note { color: var(--ink-2); }
+.note { font-size: 13px; margin-top: 32px; }
+
+label { display: block; font-weight: 600; margin: 24px 0 6px; }
+textarea {
+  width: 100%;
+  padding: 12px;
+  font: inherit;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  resize: vertical;
+}
+textarea:focus { outline: 2px solid var(--up); border-color: transparent; }
+
+#results { margin-top: 20px; }
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 150px 140px;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+}
+.row.off { opacity: 0.4; }               /* feature not in this headline */
+.label { font-weight: 500; }
+.value { text-align: right; font-variant-numeric: tabular-nums; }
+.value.up { color: var(--up); }
+.value.down { color: var(--down); }
+.value.none { color: var(--neutral); }
+
+/* A bar showing the 95% range, centered on 0 */
+.range { position: relative; height: 8px; background: var(--line); border-radius: 4px; }
+.range .zero { position: absolute; left: 50%; top: -4px; bottom: -4px; width: 1px; background: var(--ink-2); }
+.range .ci { position: absolute; top: 0; bottom: 0; border-radius: 4px; }
+.summary { color: var(--ink-2); font-size: 14px; margin: 0 0 4px; }

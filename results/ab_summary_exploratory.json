@@ -1,0 +1,16 @@
+{
+  "dataset": "exploratory",
+  "tests": 3176,
+  "arms": 14918,
+  "impressions": 53915237,
+  "median_arms_per_test": 4.0,
+  "median_impressions_per_test": 15213.0,
+  "median_ctr": 0.010951299926163905,
+  "share_sig_raw": 0.4870906801007557,
+  "share_sig_fdr": 0.3913727959697733,
+  "median_observed_lift": 0.8935222256441844,
+  "median_null_lift": 0.42024944734715486,
+  "tests_with_editor_winner": 605,
+  "share_winner_is_top_ctr": 0.743801652892562,
+  "share_editor_winner_tests_sig_fdr": 0.3239669421487603
+}
